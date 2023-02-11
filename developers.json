@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Developer 1",
+    "uname": "dev1",
+    "pword": "",
+    "phone": "23432",
+    "email": "test@gmail.com",
+    "technologies": ["reactjs", "nodejs", "expressjs"]
+  },
+  {
+    "name": "Developer 1",
+    "uname": "dev1",
+    "pword": "",
+    "phone": "23432",
+    "email": "test@gmail.com",
+    "technologies": ["reactjs", "nodejs", "expressjs"]
+  }
+]
