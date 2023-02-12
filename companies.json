@@ -14,5 +14,13 @@
     "phone": "2424",
     "email": "email@email.com",
     "technologies": []
+  },
+  {
+    "name": "Company3",
+    "uname": "company3",
+    "pword": "gsdfkfs",
+    "phone": "23414",
+    "email": "dev1@gmail.com",
+    "technologies": []
   }
 ]
